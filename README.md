@@ -3,7 +3,7 @@
 This Streamlit application is a "lite" version of the application at https://github.com/vitdegtyarev/SCBA-Streamlit. 
 It predicts the elastic buckling and ultimate loads of steel cellular beams using optimized CatBoost models.
 
-The application is based on the models described in the following preprint: Degtyarev, V.V., Tsavdaridis, K.D. Buckling and ultimate load prediction models for steel perforated beams using machine learning algorithms.
+The application is based on the models described in the following preprint: Degtyarev, V.V., Tsavdaridis, K.D., Buckling and ultimate load prediction models for perforated steel beams using machine learning algorithms, engrXiv preprint, doi:10.31224/osf.io/mezar
 
 ## Instructions on how to use the application
 
