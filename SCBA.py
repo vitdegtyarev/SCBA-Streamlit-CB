@@ -122,9 +122,9 @@ st.subheader('Nomenclature')
 st.write('Fy is the beam yield strength; n is the number of evenly spaced openings along beam span; w is the cellular beam weight; red is the beam weight reduction due to the holes compared with the identical solid-web beam; and CatBoost is gradient boosting with categorical features support.')
 
 st.subheader('Reference')
-st.write('Degtyarev, V.V., Tsavdaridis, K.D., Buckling and ultimate load prediction models for perforated steel beams using machine learning algorithms, engrXiv preprint, doi:10.31224/osf.io/mezar')
-st.markdown('[engrXiv](https://doi.org/10.31224/osf.io/mezar)', unsafe_allow_html=True)
-st.markdown('[ResearchGate](https://www.researchgate.net/publication/356756613_Buckling_and_ultimate_load_prediction_models_for_perforated_steel_beams_using_machine_learning_algorithms)', unsafe_allow_html=True)
+st.write('Degtyarev, V.V., Tsavdaridis, K.D., Buckling and ultimate load prediction models for perforated steel beams using machine learning algorithms, Journal of Building Engineering 51 (2022) 104316, https://doi.org/10.1016/j.jobe.2022.104316')
+st.markdown('[JOBE](https://doi.org/10.1016/j.jobe.2022.104316', unsafe_allow_html=True)
+st.markdown('[ResearchGate](https://www.researchgate.net/publication/359165221_Buckling_and_ultimate_load_prediction_models_for_perforated_steel_beams_using_machine_learning_algorithms)', unsafe_allow_html=True)
 
 st.subheader('Source code')
 st.markdown('[GitHub](https://github.com/vitdegtyarev/SCBA-Streamlit)', unsafe_allow_html=True)
