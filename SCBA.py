@@ -123,7 +123,7 @@ st.write('Fy is the beam yield strength; n is the number of evenly spaced openin
 
 st.subheader('Reference')
 st.write('Degtyarev, V.V., Tsavdaridis, K.D., Buckling and ultimate load prediction models for perforated steel beams using machine learning algorithms, Journal of Building Engineering 51 (2022) 104316, https://doi.org/10.1016/j.jobe.2022.104316')
-st.markdown('[JOBE](https://doi.org/10.1016/j.jobe.2022.104316', unsafe_allow_html=True)
+st.markdown('[JOBE](https://doi.org/10.1016/j.jobe.2022.104316)', unsafe_allow_html=True)
 st.markdown('[ResearchGate](https://www.researchgate.net/publication/359165221_Buckling_and_ultimate_load_prediction_models_for_perforated_steel_beams_using_machine_learning_algorithms)', unsafe_allow_html=True)
 
 st.subheader('Source code')
